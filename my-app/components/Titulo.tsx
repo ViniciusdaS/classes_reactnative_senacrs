@@ -5,8 +5,9 @@ import {Text, StyleSheet} from 'react-native';
 
 const style = StyleSheet.create({
     texto:{
+        fontFamily:'serif',
         fontSize:30,
-        color: 'blue',
+        color: 'green',
         marginBottom: 20,
         textAlign: 'center' 
     }
@@ -16,7 +17,7 @@ const style = StyleSheet.create({
 
 export default function Titulo() {
     return(
-        <Text style={style.texto}>Hey body, look up! 🦸‍♂️</Text>
+        <Text style={style.texto}>Hey buddy, look up! 🦸‍♂️</Text>
     )
 }
 
