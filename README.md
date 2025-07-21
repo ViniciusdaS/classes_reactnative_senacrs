@@ -1,3 +1,3 @@
 # classes_reactnative_senacrs
 
-<p style={fontFamily:'serif'}>OBS: Use "npm i" ou "npm install" para instalar as dependencias necessárias</p>
+## OBS: Use os comandos "npm install" ou "npm i" para instalar as dependências que faltam.
