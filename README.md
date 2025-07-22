@@ -1,8 +1,8 @@
 # classes_reactnative_senacrs
 
 # Aulas de React-Native 🧪
-## Este repositório apresenta atividades realizadas durante minhas aulas de React-Native pelo
-curso Técnico em Desenvolvimento de sistemas do Senac de São Leopoldo
+### Este repositório apresenta atividades realizadas durante minhas aulas de React-Native do curso Técnico em Desenvolvimento de Sistemas do Senac de São Leopoldo
+
 
 # Observações 👁‍🗨
 * Use os comandos "npm install" ou "npm i" para instalar as dependências faltantes.
