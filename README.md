@@ -1,7 +1,7 @@
 # classes_reactnative_senacrs
 
 ## Aulas de React-Native 🧪
-### Este repositório apresenta atividades realizadas durante minhas aulas de React-Native do curso Técnico em Desenvolvimento de Sistemas do Senac de São Leopoldo
+### Este repositório apresenta atividades realizadas durante minhas aulas de React-Native do curso Técnico em Desenvolvimento de Sistemas do Senac de São Leopoldo.
 
 ## Ferramentas 🧱
 * React-Native.
