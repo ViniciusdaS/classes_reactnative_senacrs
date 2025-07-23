@@ -1,5 +1,6 @@
 import React from "react";
-import {Text, StyleSheet} from 'react-native'
+import {Text, StyleSheet} from 'react-native';
+import ImageExample from '@/components/ImagemTDS241T'; 
 
 // Definimos o tipo de propriedade que será recebido 
 type Props = {
@@ -14,7 +15,7 @@ export default function Mensagem({ texto}: Props){
 const styles = StyleSheet.create({
     texto: {
         fontSize:18,
-        color: 'green',
+        color: 'red',
         marginBottom: 20,
         textAlign: 'center'
     }

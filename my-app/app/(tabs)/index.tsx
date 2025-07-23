@@ -4,6 +4,8 @@ import {View, StyleSheet} from 'react-native'
 import Titulo from "@/components/Titulo";
 import TextTDS241T from "@/components/textTDS241T";
 import TextInputTDS241T from "@/components/TextInputTDS241T";
+import Imagem from "@/components/ImagemTDS241T";
+import ImagemLocal from "@/components/ImagemAssetsTDS241T";
 
 export default function App(){
   return(
@@ -12,6 +14,8 @@ export default function App(){
       <Titulo />
       <TextTDS241T />
       <TextInputTDS241T />
+      <Imagem />
+      <ImagemLocal />
     </View>
   )
 }

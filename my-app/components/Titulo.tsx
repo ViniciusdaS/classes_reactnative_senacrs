@@ -7,7 +7,7 @@ const style = StyleSheet.create({
     texto:{
         fontFamily:'serif',
         fontSize:30,
-        color: 'green',
+        color: 'red',
         marginBottom: 20,
         textAlign: 'center' 
     }

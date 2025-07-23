@@ -25,14 +25,14 @@ const styles = StyleSheet.create({
     },
     label:{
         fontFamily:'serif',
-        color:'green'
+        color:'red'
     },
     input:{
         fontFamily:'serif',
-        color:'green'
+        color:'red'
     },
     resultado:{
         fontFamily:'serif',
-        color:'green'
+        color:'red'
     }
 })

@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     texto:{
         fontFamily:'serif',
         fontSize: 24,
-        color:'green', 
+        color:'red', 
         fontWeight:'bold'
     }
 })
