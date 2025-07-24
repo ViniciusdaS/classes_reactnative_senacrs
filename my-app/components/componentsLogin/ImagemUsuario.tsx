@@ -1,21 +1,19 @@
 import React from 'react';
-import {View, Image, Text, StyleSheet} from 'react-native';
+import {View, Image, StyleSheet} from 'react-native';
 
-export default function ImagemTDS241T(){
+export default function ImagemUsuario(){
     return(
         <View style={styles.container}>
             {/**Exibe uma imagem vinda da internet */}
-            <Image source={{uri:'https://www.nasa.gov/wp-content/uploads/2024/07/x25th-casa.jpg'}}
+            <Image source={{uri:'https://cdn-icons-png.flaticon.com/512/4675/4675159.png'}}
             style={styles.imagem}/>
-            <Text style={styles.legenda}>Cassiopeia A</Text>
         </View>
     )
 }
 
 const styles = StyleSheet.create({
     container:{
-        padding:20,
-        alignItems:'center',
+        paddingTop:20
     },
     imagem:{
         width:200,
